@@ -4,7 +4,7 @@
 
 运行说明：先运行DatabaseInitializer.java将数据库安装到本地，然后查看pom.xml中的配置是否需要修改，最后直接运行Main.java即可
 
-sqlite-jdbc-3.42.0.0.jar，如果要使用本系统，下载代码后需要看是否有这个包，没有去网站下载复制到lib文件夹，然后build path
+sqlite-jdbc-3.42.0.0.jar，如果要使用本系统，下载代码后需要看是否有这个包，没有去网站下载复制到lib文件夹，然后build path,最好是删除了重新下载，不然可能报错
 
 本系统基于Java Swing 技术栈开发的桌面应用程序
 
